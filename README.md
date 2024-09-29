@@ -2,7 +2,7 @@
 
 Welcome to the **Reflex 🤝 Kinde**! This application demonstrates how to integrate **Kinde** authentication into a **Reflex** web application. It provides a basic example of user authentication, including login, logout, and retrieving user details.
 
-This README was written by OpenAI's o1-preview, for a more in depth walkthrough check out Paul's video: 
+This README was written by OpenAI's o1-preview, for a more in depth walkthrough check out [Paul's video](https://www.youtube.com/watch?v=-TnZcQvPMfI)
 
 ## Table of Contents
 
