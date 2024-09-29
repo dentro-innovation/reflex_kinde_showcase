@@ -1,0 +1,2 @@
+reflex==0.6.0
+kinde-python-sdk
