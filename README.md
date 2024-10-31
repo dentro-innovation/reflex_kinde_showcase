@@ -4,6 +4,8 @@ Welcome to the **Reflex 🤝 Kinde**! This application demonstrates how to integ
 
 This README was written by OpenAI's o1-preview, for a more in depth walkthrough check out [Paul's video](https://www.youtube.com/watch?v=-TnZcQvPMfI)
 
+Kinde Ref Link to get 50$ welcome bonus: https://kinde.com/r/?kinde_ref=afc49da00f2b5518
+
 ## Table of Contents
 
 - [Prerequisites](#prerequisites)
